@@ -1,4 +1,4 @@
-document.getElementById("video-batman").addEventListener("click", function(){
+document.getElementById("video-tennis").addEventListener("click", function(){
 	launchFullScreen(this);
 	this.play();
 });
